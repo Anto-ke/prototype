@@ -117,11 +117,12 @@ Main font: Lato 300
 .header {
   height: 100vh;
   width: 100vw;
-  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/wingman/imgs/pexels-andrea-piacquadio-972995.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/wingman/imgs/pexels-freestocksorg-291762.jpg);
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
   background-attachment: fixed;
+  object-fit: cover;
 }
 
 #newArrivals {
