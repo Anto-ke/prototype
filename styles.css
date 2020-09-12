@@ -104,10 +104,7 @@ Main font: Lato 300
   transition: all .4s ease;
 }
 
-.btn-futureTrends:hover {
-  color: #8a2846;
-}
-
+.btn-futureTrends:hover, 
 .btn-futureTrends:active {
   background-color: #8a2846;
   color: #ffffff;
