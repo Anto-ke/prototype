@@ -167,8 +167,8 @@ Main font: Lato 300
 */
 @media (max-width: 576px) {
   section {
-    padding: 1.9rem 1.5rem;
-    font-size: 1.2rem;
+    padding: 3.5rem 1.5rem;
+    /* font-size: 1.2rem; */
   }
 
   h3 {
