@@ -115,7 +115,10 @@ Main font: Lato 300
   h1 {
     font-size: 1.7rem; }
   .btn {
-    font-size: .8rem; } }
+    display: block;
+    font-size: .8rem; } 
+  .footer { text-align: center;}
+  }
 
 @media (min-width: 576px) {
   section {
