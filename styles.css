@@ -81,6 +81,12 @@ Main font: Lato 300
       color: #8a2846;
       background-color: #d1b5b5; }
 
+    .btn-futureTrends:active {
+      background-color: #8a2846;
+      color: #fff;
+      border: none;
+    }
+
 .header {
   height: 100vh;
   width: 100vw;
