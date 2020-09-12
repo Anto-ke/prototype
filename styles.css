@@ -185,6 +185,8 @@ Main font: Lato 300
   }
 
   .footer a { font-size: .9rem;}
+
+  .footer { padding: 3rem 1.5rem;}
 }
 
 @media (min-width: 576px) {
