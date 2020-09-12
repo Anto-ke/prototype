@@ -90,6 +90,10 @@ Main font: Lato 300
   text-align: center;
   background-color: #fff; }
 
+#featuredItems { 
+  background-color: aquamarine;
+}
+
 /*
 -for colors
 
