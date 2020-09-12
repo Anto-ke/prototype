@@ -130,11 +130,11 @@ Main font: Lato 300
 }
 
 #futureTrends {
-  background-color: #d1b5b5;
+  background-color: #4e8658;
 }
 
 .footer {
-  background-color: #4d4a4a;
+  background-color: #494d48;
   color: #fff;
 }
 
@@ -166,7 +166,7 @@ Main font: Lato 300
 -
 */
 @media (max-width: 576px) {
-  body { font-size: 1rem;}
+  body { font-size: 1.2rem;}
   section {
     padding: 4.5rem 1.5rem;
   }
@@ -184,7 +184,7 @@ Main font: Lato 300
     font-size: .8rem;
   }
 
-  .footer a { font-size: .9rem;}
+  .footer a { font-size: 1rem;}
 
   .footer { padding: 3rem 1.5rem;}
 }
