@@ -4,10 +4,12 @@
   margin: 0;
   padding: 0;
   -webkit-box-sizing: inherit;
-  box-sizing: inherit; }
+  box-sizing: inherit;
+}
 
 html {
-  scroll-behavior: smooth; }
+  scroll-behavior: smooth;
+}
 
 body {
   box-sizing: border-box;
@@ -16,18 +18,21 @@ body {
   font-size: 1.2rem;
   color: #555;
   line-height: 1.5;
-  background-color: #f5f5f5; }
+  background-color: #f5f5f5;
+}
 
 h1 {
   font-family: 'Raleway', sans-serif;
   font-weight: 300;
-  font-size: 2rem; }
+  font-size: 2rem;
+}
 
 h3 {
   font-family: 'Overpass', sans-serif;
   font-weight: 700;
   font-size: 3.5rem;
-  color: #555; }
+  color: #555;
+}
 
 /*
 FONTS TO USE:
@@ -41,10 +46,13 @@ Main font: Lato 300
   font-family: 'Alata', sans-serif;
   text-transform: uppercase;
   padding: .9rem 2rem;
-  letter-spacing: 0.05em; }
-  .btn:focus {
-    outline: none;
-    box-shadow: none; }
+  letter-spacing: 0.05em;
+}
+
+.btn:focus {
+  outline: none;
+  box-shadow: none;
+}
 
 .btn-arrivals {
   color: #fff;
@@ -54,15 +62,21 @@ Main font: Lato 300
   transition: all .4s ease;
   -webkit-box-shadow: 0 10px 20px -3px #777;
   -moz-box-shadow: 0 10px 20px -3px #777;
-  box-shadow: 0 10px 20px -3px #777; }
-  .btn-arrivals:hover {
-    color: #fff;
-    transform: scaleX(1.02); }
-  .btn-arrivals:active, .btn-arrivals.active {
-    transform: scaleX(1);
-    -webkit-box-shadow: none;
-    -moz-box-shadow: none;
-    box-shadow: none; }
+  box-shadow: 0 10px 20px -3px #777;
+}
+
+.btn-arrivals:hover {
+  color: #fff;
+  transform: scaleX(1.02);
+}
+
+.btn-arrivals:active,
+.btn-arrivals.active {
+  transform: scaleX(1);
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+}
 
 .btn-features {
   color: #8a2846;
@@ -70,22 +84,31 @@ Main font: Lato 300
   border-color: #8a2846;
   border-radius: 0;
   margin-top: 1.5rem;
-  transition: all .4s ease; }
-  .btn-features:hover, .btn-features:active, .btn-features.active {
-    background: #8a2846;
-    color: #ffffff;
-    border: none; }
+  transition: all .4s ease;
+}
 
-    .btn-futureTrends {
-      border-color: #8a2846;
-      color: #8a2846;
-      background-color: #d1b5b5; }
+.btn-features:hover,
+.btn-features:active,
+.btn-features.active {
+  background: #8a2846;
+  color: #ffffff;
+  border: none;
+}
 
-    .btn-futureTrends:active {
-      background-color: #8a2846;
-      color: #fff;
-      border: none;
-    }
+.btn-futureTrends {
+  border-color: #8a2846;
+  color: #8a2846;
+  background-color: #d1b5b5;
+  border-radius: 0;
+  margin-top: 1.5rem;
+  transition: all .4s ease;
+}
+
+.btn-futureTrends:active {
+  background-color: #8a2846;
+  color: #ffffff;
+  border: none;
+}
 
 .header {
   height: 100vh;
@@ -94,11 +117,13 @@ Main font: Lato 300
   background-size: cover;
   background-position: bottom;
   background-repeat: no-repeat;
-  background-attachment: fixed; }
+  background-attachment: fixed;
+}
 
 #newArrivals {
   text-align: center;
-  background-color: #fff; }
+  background-color: #fff;
+}
 
 #futureTrends {
   background-color: #d1b5b5;
@@ -109,7 +134,9 @@ Main font: Lato 300
   color: #fff;
 }
 
-.footer h5 { font-weight: bold;}
+.footer h5 {
+  font-weight: bold;
+}
 
 /*
 -for colors
@@ -123,25 +150,41 @@ Main font: Lato 300
 @media (max-width: 576px) {
   section {
     padding: 1.9rem 1.5rem;
-    font-size: 1.2rem; }
+    font-size: 1.2rem;
+  }
+
   h3 {
-    font-size: 2.2rem; }
+    font-size: 2.2rem;
+  }
+
   h1 {
-    font-size: 1.7rem; }
+    font-size: 1.7rem;
+  }
+
   .btn {
     display: block;
-    font-size: .8rem; } 
-  .footer { text-align: center;}
+    font-size: .8rem;
   }
+
+  .footer {
+    text-align: center;
+  }
+}
 
 @media (min-width: 576px) {
   section {
-    padding: 2.3rem 3rem; } }
+    padding: 2.3rem 3rem;
+  }
+}
 
 @media (min-width: 768px) {
   section {
-    padding: 2.8rem 4rem; } }
+    padding: 2.8rem 4rem;
+  }
+}
 
 @media (min-width: 992px) {
   section {
-    padding: 4rem 6rem; } }
+    padding: 4rem 6rem;
+  }
+}
