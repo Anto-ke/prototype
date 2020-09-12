@@ -101,7 +101,7 @@ Main font: Lato 300
 .btn-futureTrends {
   border-color: #8a2846;
   color: #8a2846;
-  background-color: #d1b5b5;
+  background-color: #abe6b6;
   border-radius: 0;
   margin-top: 1.5rem;
   transition: all .4s ease;
@@ -109,7 +109,7 @@ Main font: Lato 300
 
 .btn-futureTrends:hover,
 .btn-futureTrends:active {
-  background-color: #8a2846;
+  background-color: #abe6b6;
   color: #ffffff;
   border: none;
 }
@@ -130,7 +130,7 @@ Main font: Lato 300
 }
 
 #futureTrends {
-  background-color: #4e8658;
+  background-color: #abe6b6;
 }
 
 .footer {
