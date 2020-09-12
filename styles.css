@@ -166,9 +166,9 @@ Main font: Lato 300
 -
 */
 @media (max-width: 576px) {
+  body { font-size: 1rem;}
   section {
     padding: 4.5rem 1.5rem;
-    font-size: .8rem;
   }
 
   h3 {
@@ -183,6 +183,8 @@ Main font: Lato 300
     display: block;
     font-size: .8rem;
   }
+
+  .footer a { font-size: .9rem;}
 }
 
 @media (min-width: 576px) {
