@@ -122,20 +122,13 @@ Main font: Lato 300
 }
 
 #newArrivals {
-  padding: 4rem 6rem;
   text-align: center;
   background-color: #fff;
-}
-
-#featuredItems {
-  padding: 4rem 6rem;
 }
 
 #futureTrends {
   background-color: #d1b5b5;
 }
-
-.techno { padding: 4rem 6rem;}
 
 .map {
   padding: 0;
