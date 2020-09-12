@@ -54,6 +54,10 @@ Main font: Lato 300
   box-shadow: none;
 }
 
+.btn:hover {
+  transform: scaleX(1.02);
+}
+
 .btn-arrivals {
   color: #fff;
   background-color: #8a2846;
@@ -67,7 +71,6 @@ Main font: Lato 300
 
 .btn-arrivals:hover {
   color: #fff;
-  transform: scaleX(1.02);
 }
 
 .btn-arrivals:active,
