@@ -77,6 +77,8 @@ Main font: Lato 300
     border: none; }
 
     .btn-futureTrends {
+      border-color: #8a2846;
+      color: #8a2846;
       background-color: #d1b5b5; }
 
 .header {
