@@ -168,15 +168,15 @@ Main font: Lato 300
 @media (max-width: 576px) {
   section {
     padding: 4.5rem 1.5rem;
-    /* font-size: 1.2rem; */
+    font-size: 1rem;
   }
 
   h3 {
-    font-size: 2.2rem;
+    font-size: 3rem;
   }
 
   h1 {
-    font-size: 1.7rem;
+    font-size: 2rem;
   }
 
   .btn {
