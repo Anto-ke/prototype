@@ -138,8 +138,10 @@ Main font: Lato 300
   color: #fff;
 }
 
-.footer h5 {
-  font-weight: bold;
+.footer a {
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #ffffff;
 }
 
 .logo {
