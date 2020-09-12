@@ -187,18 +187,18 @@ Main font: Lato 300
 
 @media (min-width: 576px) {
   section {
-    padding: 2.3rem 3rem;
+    padding: 2.8rem 3.5rem;
   }
 }
 
 @media (min-width: 768px) {
   section {
-    padding: 2.8rem 4rem;
+    padding: 3rem 4.3rem;
   }
 }
 
 @media (min-width: 992px) {
   section {
-    padding: 4rem 6rem;
+    padding: 5.5rem 7rem;
   }
 }
