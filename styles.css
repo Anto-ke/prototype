@@ -15,9 +15,10 @@ body {
   box-sizing: border-box;
   font-family: 'Lato', sans-serif;
   font-weight: 300;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: #555;
-  line-height: 1.5;
+  letter-spacing: normal;
+  line-height: normal;
   background-color: #f5f5f5;
 }
 
@@ -156,15 +157,16 @@ Main font: Lato 300
   font-size: 1.2rem;
   text-align: center;
   width: 100%;
-  height: 100%; 
+  height: 100%;
 }
 
-.copyright{
+.copyright {
   font-size: 1rem;
   text-align: center;
 }
 
-hr { width: 98%;
+hr {
+  width: 98%;
   background-color: #777;
   margin-top: 3rem;
   margin-left: auto;
@@ -181,7 +183,10 @@ hr { width: 98%;
 -
 */
 @media (max-width: 576px) {
-  body { font-size: 1.2rem;}
+  body {
+    font-size: 1.2rem;
+  }
+
   section {
     padding: 5rem 1.5rem;
   }
@@ -199,9 +204,13 @@ hr { width: 98%;
     font-size: .8rem;
   }
 
-  .footer a { font-size: 1rem;}
+  .footer a {
+    font-size: 1rem;
+  }
 
-  .footer { padding: 3rem 1.5rem;}
+  .footer {
+    padding: 3rem 1.5rem;
+  }
 }
 
 @media (min-width: 576px) {
