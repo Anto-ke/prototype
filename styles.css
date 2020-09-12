@@ -144,6 +144,10 @@ Main font: Lato 300
   color: #ffffff;
 }
 
+.footer a:hover {
+  color: #8a2846;
+}
+
 .logo {
   text-align: center;
   width: 100%;
