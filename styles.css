@@ -139,6 +139,8 @@ Main font: Lato 300
 }
 
 .logo {
+  margin: 0;
+  padding: 4rem 6rem;
   background-color: #f5f5f5;
   text-align: center;
 }
