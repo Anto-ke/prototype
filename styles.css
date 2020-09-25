@@ -133,7 +133,7 @@ Main font: Lato 300
   color: #e4e2e2 ;
   padding: 1.2rem;
   border-radius: 5px;
-  transition: all .3s ease;
+  transition: all .3s ease-in-out;
 
 }
 
