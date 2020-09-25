@@ -128,7 +128,10 @@ Main font: Lato 300
 
 .intro {
   padding: 1.5rem;
+  transition: .4s all ease;
 }
+
+.intro h3 { font-size: 2rem;}
 
 .intro .perfection:hover {
   background-color: #777; 
