@@ -136,6 +136,13 @@ Main font: Lato 300
   transition: all .3s ease-in-out;
 }
 
+.rusty:hover {
+  background-color: #5e355a; 
+  color: #e4e2e2 ;
+  border-radius: 5px;
+  transition: all .3s ease-in-out;
+}
+
 #newArrivals {
   text-align: center;
   background-color: #fff;
