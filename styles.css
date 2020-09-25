@@ -126,6 +126,14 @@ Main font: Lato 300
   object-fit: cover;
 }
 
+.intro {
+  padding: 1.5rem;
+}
+
+.intro .perfection:hover {
+  background-color: #777; 
+}
+
 #newArrivals {
   text-align: center;
   background-color: #fff;
