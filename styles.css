@@ -127,18 +127,19 @@ Main font: Lato 300
 }
 
 .intro {
-  transition: .4s all ease;
 }
 
 .intro h3 { font-size: 2rem;}
 
 .perfection {
-  padding: 1rem;
+  padding: 1.5rem;
 }
 .perfection:hover {
   background-color: #777; 
   color: #f5f3f3 ;
   border-radius: 4px;
+  transition: .5s all ease-in-out;
+
 }
 
 #newArrivals {
