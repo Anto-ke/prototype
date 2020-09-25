@@ -129,19 +129,20 @@ Main font: Lato 300
 .intro h3 { font-size: 2rem;}
 
 .col { margin: 1.2rem 0;}
+
+.perfection { padding: 1.2rem;}
 .perfection:hover {
   background-color: #757c61; 
   color: #e4e2e2 ;
   border-radius: 5px;
-  padding: 1.2rem;
   transition: all .3s ease-in-out;
 }
 
+.rusty {padding: 1.2ren;}
 .rusty:hover {
   background-color: #5e355a; 
   color: #e4e2e2 ;
   border-radius: 5px;
-  padding: 1.2rem;
   transition: all .3s ease-in-out;
 }
 
