@@ -130,14 +130,14 @@ Main font: Lato 300
 .spacer { padding: 1.2rem;}
 
 .perfection:hover {
-  background-color: #999993; 
+  background-color: #c5c5bf; 
   color: #eeecec ;
   border-radius: 5px;
   transition: all .3s ease-in-out;
 }
 
 .rusty:hover {
-  background-color: #f59083; 
+  background-color: #f3aea5; 
   color: #cecaca ;
   border-radius: 5px;
   transition: all .3s ease-in-out;
