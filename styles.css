@@ -123,10 +123,9 @@ Main font: Lato 300
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  object-fit: cover;
 }
 
-#intro h3 { font-size: 2rem;}
+#intro h3 { font-size: 1.6rem;}
 
 .col { margin: 1.2rem 0;}
 
