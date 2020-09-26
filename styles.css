@@ -138,7 +138,7 @@ Main font: Lato 300
 
 .rusty:hover {
   background-color: #f3aea5; 
-  color: #cecaca ;
+  color: #f5f0f0 ;
   border-radius: 5px;
   transition: all .3s ease-in-out;
 }
