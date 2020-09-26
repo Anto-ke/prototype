@@ -126,7 +126,7 @@ Main font: Lato 300
   object-fit: cover;
 }
 
-.intro h3 { font-size: 2rem;}
+#intro h3 { font-size: 2rem;}
 
 .col { margin: 1.2rem 0;}
 
