@@ -128,8 +128,7 @@ Main font: Lato 300
 }
 
 .header-text-box {
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
     background-color: rgba(255, 255, 255, .3);
 }
 
