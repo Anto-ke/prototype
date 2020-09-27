@@ -128,6 +128,9 @@ Main font: Lato 300
 }
 
 .header-text-box {
+    display: flex;
+    justify-content: center;
+    align-content: center;
     width: 70%;
     margin: auto;
     /* margin-left: auto;
