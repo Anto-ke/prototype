@@ -1,0 +1,1 @@
+// vanilla javascript (pure javascript)
