@@ -52,6 +52,9 @@ Main font: Lato 300
     letter-spacing: 0.05em;
 }
 
+
+/* to subdue the bluish focus on bootstrap buttons when they are pressed */
+
 .btn:focus {
     outline: none;
     box-shadow: none;
