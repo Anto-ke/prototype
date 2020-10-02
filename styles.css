@@ -199,6 +199,65 @@ hr {
     margin-right: auto;
 }
 
+.socials {
+    margin-top: 1.5rem;
+    display: flex;
+}
+
+.socials a {
+    text-decoration: none;
+    height: 4rem;
+    width: 4rem;
+    border-radius: 50%;
+    padding: 1rem;
+    margin: 0 1.5rem 0 0;
+}
+
+.twitter {
+    color: #808283;
+    font-size: 2.5rem;
+}
+
+.twitter:hover {
+    color: #00acee;
+}
+
+.dribbble {
+    color: #808283;
+    font-size: 2.5rem;
+}
+
+.dribbble:hover {
+    color: #ae4c89;
+}
+
+.linked {
+    color: #808283;
+    font-size: 2.5rem;
+}
+
+.linked:hover {
+    color: #0e76a8;
+}
+
+.behance {
+    color: #808283;
+    font-size: 2.5rem;
+}
+
+.behance:hover {
+    color: #053eff;
+}
+
+.whatsapp {
+    color: #808283;
+    font-size: 2.5rem;
+}
+
+.whatsapp:hover {
+    color: #075e54;
+}
+
 
 /*
 -for colors
