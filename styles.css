@@ -206,10 +206,14 @@ hr {
 
 .socials a {
     text-decoration: none;
+}
+
+.socials i {
     height: 4rem;
     width: 4rem;
     border-radius: 50%;
     padding: 1rem;
+    font-size: 2.5rem;
 }
 
 .twitter {
