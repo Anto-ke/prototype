@@ -210,16 +210,17 @@ hr {
     width: 4rem;
     border-radius: 50%;
     padding: 1rem;
-    margin: 0 1.5rem 0 0;
 }
 
 .twitter {
     color: #808283;
     font-size: 2.5rem;
+    border-color: #808283;
 }
 
 .twitter:hover {
     color: #00acee;
+    border-color: #00acee;
 }
 
 .dribbble {
