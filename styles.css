@@ -203,7 +203,7 @@ hr {
 .socials {
     margin-top: 1.5rem;
     display: flex;
-    align-items: center;
+    justify-content: center;
 }
 
 .socials a {
