@@ -165,6 +165,9 @@ Main font: Lato 300
 .footer {
     background-color: #494d48;
     color: #fff;
+    
+    display: flex;
+    align-items: center;
 }
 
 .footer a {
