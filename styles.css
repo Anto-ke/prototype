@@ -166,8 +166,7 @@ Main font: Lato 300
     background-color: #494d48;
     color: #fff;
     
-    display: flex;
-    align-items: center;
+    text-align: center;
 }
 
 .footer a {
