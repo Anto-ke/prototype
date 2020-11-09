@@ -165,8 +165,6 @@ Main font: Lato 300
 .footer {
     background-color: #494d48;
     color: #fff;
-    
-    text-align: center;
 }
 
 .footer a {
@@ -205,6 +203,7 @@ hr {
 .socials {
     margin-top: 1.5rem;
     display: flex;
+    align-items: center;
 }
 
 .socials a {
